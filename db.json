@@ -1,14 +1,32 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "roll": "代表取締役",
+    "active": "true"
+  },
+  {
+    "id": 2,
+    "roll": "取締役",
+    "active": "false"
+  },
+  {
+    "id": 3,
+    "roll": "執行役員",
+    "active": "false"
+  },
+  {
+    "id": 4,
+    "roll": "部長",
+    "active": "true"
+  },
+  {
+    "id": 5,
+    "roll": "課長1",
+    "active": "true"
+  },
+  {
+    "id": 6,
+    "roll": "課長2",
+    "active": "true"
   }
-}
+]
